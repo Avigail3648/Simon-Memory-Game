@@ -1,0 +1,40 @@
+body {
+    background: url("../pic/inDevelopment.jpg");
+    background-size: cover;
+}
+
+.words {
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 250px;
+}
+
+@keyframes myAnimation2 {
+    0% {
+        background-image: url(../pic/1.jpg)
+    }
+
+    30% {
+        background-image: url(../pic/2.webp)
+    }
+
+    100% {
+        background-image: url(../pic/3.jpg);
+    }
+}
+
+.animate2 {
+    animation-name: myAnimation2;
+    animation-duration: 10s;
+    display: flex;
+    background-size: cover;
+    width: 98%;
+    height: 945px;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1000000;
+    transition: all 1s 0s;
+    position: absolute;
+    z-index: -1;
+}

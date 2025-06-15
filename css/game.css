@@ -1,0 +1,87 @@
+body {
+  background: linear-gradient(50deg, #82b0f6, rgb(215, 252, 135), #fa8c8c);
+}
+
+#step {
+  color: white;
+  font-size: 100px;
+}
+
+#start {
+  position: absolute;
+  background-color: rgb(223, 212, 212);
+  border: 10px solid grey;
+  width: 248px;
+  height: 226px;
+  border-radius: 50%;
+  font-size: xx-large;
+  color: rgb(255, 0, 0);
+
+}
+
+.gameContainer {
+  position: relative;
+  width: 573px;
+  height: 556px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: solid 1px black;
+  border-radius: 50%;
+  background-color: grey;
+}
+
+.fourButton {
+  position: absolute;
+  width: 255px;
+  height: 256px;
+  margin: 20px;
+}
+
+#green {
+  top: 0;
+  left: 0;
+  background-color: rgb(175, 251, 175);
+  border-radius: 100% 0 0 0;
+}
+
+#red {
+  top: 0;
+  right: 0;
+  background-color: rgb(253, 170, 170);
+  border-radius: 0 100% 0 0;
+}
+
+#yellow {
+  bottom: 0;
+  left: 0;
+  background-color: rgb(252, 252, 163);
+  border-radius: 0 0 0 100%;
+}
+
+#blue {
+  bottom: 0;
+  right: 0;
+  background-color: rgb(164, 164, 249);
+  border-radius: 0 0 100% 0;
+}
+
+#center {
+  position: absolute;
+  background-color: white;
+  border: 20px solid grey;
+  width: 248px;
+  height: 226px;
+  top: 143px;
+  left: 143px;
+  border-radius: 50%;
+}
+
+#textTitle {
+  width: 200px;
+  height: 165px;
+  line-height: 163px;
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  font-family: 'Courier New';
+}

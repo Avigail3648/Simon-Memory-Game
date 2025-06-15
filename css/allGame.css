@@ -1,0 +1,41 @@
+#imgs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    width: 100%;
+}
+
+.img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 350px;
+    height: 350px;
+    border: solid 10px salmon;
+    border-radius: 10px;
+}
+
+main {
+    background-color: cornsilk;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+header {
+    background-color: cadetblue;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+footer {
+    background-color: rgb(222, 127, 127);
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
