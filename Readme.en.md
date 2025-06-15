@@ -35,14 +35,14 @@ To run the project locally, follow these steps:
 
 
 1. Clone the repository:  
-   `git clone https://github.com/Avigail3648/Mastermind-Game.git`
+   `git clone https://github.com/Avigail3648/Simon-Memory-Game.git`
 2. Navigate into the project directory:  
-   `cd Mastermind-Game`
+   `cd Simon-Memory-Game`
 3. Install dependencies:  
    `npm install`
 4. Run the development server:  
-   `ng serve -o`
-5. Your browser will automatically open at `http://localhost:4200`
+   `start logIn.html`
+5. Your browser will automatically open at `http://localhost:5500`
 
 
 
