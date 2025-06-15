@@ -7,7 +7,7 @@
 
 
 ### Technologies Used
-- **Frontend**: Built with HTML, CSS,JS
+- **Frontend**: Built with JS, HTML, CSS.
 
 
 
@@ -38,11 +38,9 @@ To run the project locally, follow these steps:
    `git clone https://github.com/Avigail3648/Simon-Memory-Game.git`
 2. Navigate into the project directory:  
    `cd Simon-Memory-Game`
-3. Install dependencies:  
-   `npm install`
-4. Run the development server:  
+3. Run the development server:  
    `start logIn.html`
-5. Your browser will automatically open at `http://localhost:5500`
+4. Your browser will automatically open at `http://localhost:5500`
 
 
 
