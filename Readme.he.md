@@ -7,7 +7,7 @@
 
 
 ### טכנולוגיות בשימוש
-- **צד לקוח (Frontend)**: פותח באמצעות HTML,CSS ו-JS.
+- **צד לקוח (Frontend)**: פותח באמצעות HTML,JS ו-CSS.
 
 
 
@@ -35,14 +35,12 @@
 
 
 1. שיבטו את הרפוזיטורי:  
-   `git clone https://github.com/Avigail3648/Mastermind-Game.git`
+   `git clone https://github.com/Avigail3648/Simon-Memory-Game.git`
 2. עברו לתיקיית הפרויקט:  
-   `cd Mastermind-Game`
-3. התקינו את התלויות:  
-   `npm install`
-4. הפעילו את שרת הפיתוח:  
-   `ng serve -o`
-5. פתחו את הדפדפן – הפרויקט ייפתח אוטומטית בכתובת `http://localhost:4200`
+   `cd Simon-Memory-Game`
+3. הפעילו את שרת הפיתוח:  
+   `start logIn.html `
+4. פתחו את הדפדפן – הפרויקט ייפתח אוטומטית בכתובת `http://localhost:5500`
 
 
 
